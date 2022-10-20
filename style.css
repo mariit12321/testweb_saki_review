@@ -162,7 +162,11 @@ header a .logo {
   }
 }
 #style {
+<<<<<<< HEAD
   background-image: url(testweb_saki_review/fashion.jpg);
+=======
+  background-image: url(fashion.jpg);
+>>>>>>> review/1019
   background-position: center;
   width: 100vw;
   height: 520px;
@@ -336,4 +340,8 @@ footer .copy p {
   #footer .footer_menu .menu1 {
     margin-bottom: 30px;
   }
+<<<<<<< HEAD
 }/*# sourceMappingURL=style.css.map */
+=======
+}/*# sourceMappingURL=style.css.map */
+>>>>>>> review/1019
